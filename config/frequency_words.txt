@@ -2,7 +2,6 @@
 BTC
 ETH
 SOL
-AI
 
 X/Twitter
 马斯克
