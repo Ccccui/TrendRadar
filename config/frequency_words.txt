@@ -2,6 +2,7 @@
 BTC
 ETH
 SOL
+ZEC
 
 X/Twitter
 马斯克
@@ -9,23 +10,7 @@ ElonMusk
 特朗普
 Donald J.Trump
 
-美国
 美联储
-
-英伟达
-NVIDIA
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 ai
 !gai
